@@ -37,11 +37,11 @@
 
 Get Hermes running in seconds depending on your operating system:
 
-### 🪟 Windows (10 / 11)
+### Windows (10 / 11)
 Simply double-click the **`launch.bat`** file in this folder.
 > *Note: On first run, it will launch a PowerShell window to download dependencies and configure your runtime environment.*
 
-### 🍎 macOS & 🐧 Linux
+###  macOS & 🐧 Linux
 Open your terminal in this directory and execute:
 ```bash
 chmod +x launch.sh
